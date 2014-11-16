@@ -1,0 +1,4 @@
+DjangoApp
+=========
+
+First django App
